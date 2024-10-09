@@ -4,7 +4,7 @@ A userscript that adds a link to a movie on letterboxd.com based on the Title an
 
 How to install:
   - I will also update the greasy fork site of the script: https://greasyfork.org/en/scripts/511707-add-plex-link-to-letterboxd
-  - How to install user scripts: https://greasyfork.org/en/help/installing-user-scripts
+  - How to install user scripts: https://greasyfork.org/en/help/installing-user-scripts  - Violentmonkey is open source and recommended for now.
 
 You have to provide the script with your 
 - plex token
