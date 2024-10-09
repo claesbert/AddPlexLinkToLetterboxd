@@ -2,6 +2,10 @@
 A userscript that adds a link to a movie on letterboxd.com based on the Title and year, to your plex instance.
 ![Alt text](Screenshot01.png)
 
+How to install:
+  - I will also update the greasy fork site of the script: https://greasyfork.org/en/scripts/511707-add-plex-link-to-letterboxd
+  - How to install user scripts: https://greasyfork.org/en/help/installing-user-scripts
+
 You have to provide the script with your 
 - plex token
   -  Find your plex token [here](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
